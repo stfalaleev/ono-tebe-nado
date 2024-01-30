@@ -63,7 +63,7 @@
   /* cover */
   
   .cover {
-    background: url("../images/cover.jpg") center/cover;
+    background: url("./images/cover.jpg") center/cover;
     color: #fff;
   }
   
@@ -174,15 +174,15 @@
   }
   
   .card_type_film {
-    background: url(../images/card-lot-01.jpg) center/cover;
+    background: url(./images/card-lot-01.jpg) center/cover;
   }
   
   .card_type_book {
-    background: url(../images/card-lot-02.jpg) center/cover;
+    background: url(./images/card-lot-02.jpg) center/cover;
   }
   
   .card_type_picture {
-    background: url(../images/card-lot-03.jpg) center/cover;
+    background: url(./images/card-lot-03.jpg) center/cover;
   }
   
   .card-link {
