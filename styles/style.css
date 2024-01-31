@@ -62,7 +62,9 @@
   /* cover */
   
   .cover {
-    background: url("../images/cover.jpg") center/cover;
+    background: url("../images/cover.jpg");
+    background-position: center;
+    background-size: cover;
     color: #fff;
   }
   
@@ -84,13 +86,13 @@
   }
   
   .cover__description-text {
+    margin-right: 80px;
     font-size: 22px;
     font-weight: 400;
-    line-height: 127.273%;
-    text-align: end;
-    word-spacing: 17.5px;
+    line-height: 28px;
+    text-align: center;
+    word-spacing: 18px;
     text-transform: uppercase;
-    margin-right: 6%;
   }
 
   .overlay {
@@ -122,14 +124,17 @@
   }
 
   .bet-button {
-    font-size: 22px;
-    font-weight: 400;
-    text-transform: uppercase;
-    background: none;
     border: 1px solid #fff;
-    border-radius: 0;
-    color: #fff;
     padding: 12px 32px;
+    color: inherit;
+    font-family: "Raleway", sans-serif;
+    font-size: 22px;
+    line-height: normal;
+    text-align: center;
+    text-transform: uppercase;
+    background: transparent;
+    transition: transform 0.3s ease;
+    cursor: pointer;
   }
   
   /* lots */
@@ -183,15 +188,21 @@
   }
   
   .card_type_film {
-    background: url(../images/card-lot-01.jpg) center/cover;
+    background: url("../images/card-lot-01.jpg");
+    background-position: center;
+    background-size: cover;
   }
   
   .card_type_book {
-    background: url(../images/card-lot-02.jpg) center/cover;
+    background: url("../images/card-lot-02.jpg");
+    background-position: center;
+    background-size: cover;
   }
   
   .card_type_picture {
-    background: url(../images/card-lot-03.jpg) center/cover;
+    background: url("../images/card-lot-03.jpg");
+    background-position: center;
+    background-size: cover;
   }
   
   .card-link {
@@ -232,14 +243,18 @@
   }
   
   .about__logo {
-    background-color: #000;
+    display: flex;
+    width: 240px;
+    height: 240px;
+    margin: 0 94px;
     border-radius: 50%;
-    margin: 0 95px;
-    padding: 63px 46px;
+    background: #000;
   }
   
   .about__logo-image {
     width: 148px;
+    height: 114px;
+    margin: auto;
   }
   
   .about__title {
