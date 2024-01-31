@@ -1,6 +1,8 @@
 /* header */
 
 .header {
+    max-width: 1440px;
+    margin: auto;
     font-size: 18px;
     font-weight: 400;
     padding: 92px 50px 96px;
