@@ -1,7 +1,11 @@
 /* header */
+body {
+  max-width: 1100px;
+  margin: auto;
+}
 
 .header {
-    max-width: 1100px;
+    max-width: 1052px;
     margin: auto;
     font-size: 20px;
     font-weight: 400;
@@ -154,10 +158,10 @@
   .lots__card-list {
     display: flex;
     flex-wrap: wrap;
-    gap: 25px;
+    gap: 30px;
     list-style: none;
-    width: 105%;
-    margin-bottom: 25px;
+    width: 100%;
+    margin-bottom: 30px;
   }
   
   .lots__card-list-item {
@@ -223,7 +227,7 @@
   .about {
     display: flex;
     gap: 30px;
-    padding: 0 50px 182px 50px;
+    padding: 0 50px 182px 14px;
   }
   
   .about__column:last-child {
@@ -263,7 +267,7 @@
   /* footer */
   
   .footer {
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 400;
     padding: 0 45px 90px;
     display: flex;
