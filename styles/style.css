@@ -3,9 +3,9 @@
 .header {
     max-width: 1440px;
     margin: auto;
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 400;
-    padding: 92px 50px 96px;
+    padding: 90px 50px 94px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -14,7 +14,7 @@
   
   .header__menu {
     flex: 0 0 auto;
-    width: 33.3%;
+    width: 33%;
   }
   
   .header__link {
@@ -23,7 +23,7 @@
   
   .header__links-list {
     display: flex;
-    gap: 32px;
+    gap: 35px;
   }
   
   .header__links-list-item {
@@ -41,8 +41,8 @@
   
   .header__logo {
     flex: 0 0 auto;
-    width: 148px;
-    height: 105px;
+    width: 150px;
+    height: 104px;
   }
   
   .header__logo-image {
@@ -55,7 +55,7 @@
   }
   .address {
     flex: 0 0 auto;
-    width: 33.3%;
+    width: 33%;
     line-height: 135%;
     font-style: normal;
     text-underline-position: under;
@@ -89,17 +89,17 @@
   
   .cover__description-text {
     margin-right: 80px;
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 400;
-    line-height: 28px;
+    line-height: 27px;
     text-align: center;
-    word-spacing: 18px;
+    word-spacing: 15px;
     text-transform: uppercase;
   }
 
   .overlay {
     height: inherit;
-    padding: 165px 50px 50px;
+    padding: 170px 50px 50px;
     background-color: rgba(0, 0, 0, 0.6);
   }
   
@@ -130,7 +130,7 @@
     padding: 12px 32px;
     color: inherit;
     font-family: "Raleway", sans-serif;
-    font-size: 22px;
+    font-size: 25px;
     line-height: normal;
     text-align: center;
     text-transform: uppercase;
@@ -148,7 +148,7 @@
   .lots__heading {
     font-size: 40px;
     font-weight: 700;
-    margin: 0 0 27px 40px;
+    margin: 0 0 25px 40px;
     text-transform: uppercase;
   }
   
@@ -236,7 +236,7 @@
   
   .about {
     display: flex;
-    gap: 25px;
+    gap: 30px;
     padding: 0 50px 182px 50px;
   }
   
@@ -279,13 +279,13 @@
   .footer {
     font-size: 18px;
     font-weight: 400;
-    padding: 0 50px 90px;
+    padding: 0 45px 90px;
     display: flex;
     justify-content: space-between;
   }
   
   .footer__address {
-    padding-right: 15.5%;
+    padding-right: 15%;
   }
   
   .footer__menu {
@@ -310,7 +310,7 @@
   
   .footer__social-list {
     flex: 0 0 auto;
-    width: 33.3%;
+    width: 33%;
     display: flex;
     justify-content: end;
     gap: 48px;
