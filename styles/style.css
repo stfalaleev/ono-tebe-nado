@@ -32,7 +32,7 @@ body {
   
   .header__links-list {
     display: flex;
-    gap: 20px;
+    gap: 30px;
   }
 
   
@@ -53,7 +53,7 @@ body {
     flex: 0 0 auto;
     width: 148px;
     height: 105px;
-    margin-left: -100px;
+    margin-left: -60px;
   }
 
 
@@ -164,7 +164,7 @@ body {
   .lots__heading {
     font-size: 40px;
     font-weight: 700;
-    margin: -7px 0 26px 54px;
+    margin: -6px 0 26px 50px;
     text-transform: uppercase;
   }
   
@@ -282,8 +282,8 @@ body {
   .footer {
     font-size: 18px;
     font-weight: 400;
-    padding: 0 53px 90px;
-    margin-top: -10px;
+    padding: 4px 53px 90px;
+    margin-top: -8px;
     display: flex;
     justify-content: space-between;
   }
