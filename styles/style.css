@@ -9,7 +9,7 @@ body {
     margin: auto;
     font-size: 20px;
     font-weight: 400;
-    padding: 88px 48px 100px;
+    padding: 88px 45px 100px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -283,7 +283,7 @@ body {
     font-size: 18px;
     font-weight: 400;
     padding: 4px 53px 90px;
-    margin-top: -6px;
+    margin-top: -7px;
     display: flex;
     justify-content: space-between;
   }
