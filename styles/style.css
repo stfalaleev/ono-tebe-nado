@@ -158,7 +158,7 @@ body {
   /* lots */
   
   .lots {
-    padding: 175px 10px 175px;
+    padding: 175px 10px 177px;
   }
   
   .lots__heading {
@@ -171,9 +171,9 @@ body {
   .lots__card-list {
     display: flex;
     flex-wrap: wrap;
-    gap: 33px;
+    gap: 30px;
     list-style: none;
-    width: 100%;
+    width: 99%;
     margin-bottom: 30px;
   }
   
@@ -216,7 +216,7 @@ body {
   }
   
   .card .overlay {
-    padding: 45px 43px;
+    padding: 48px 41px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
