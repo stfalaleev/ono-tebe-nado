@@ -128,7 +128,7 @@ body {
   }
   
   .aligned-text_right {
-    padding-bottom: 5px;
+    padding-bottom: 3px;
     text-align: right;
   }
 
@@ -158,13 +158,13 @@ body {
   /* lots */
   
   .lots {
-    padding: 177px 10px 177px;
+    padding: 175px 10px 175px;
   }
   
   .lots__heading {
     font-size: 40px;
     font-weight: 700;
-    margin: 0 0 26px 52px;
+    margin: -7px 0 26px 54px;
     text-transform: uppercase;
   }
   
@@ -216,7 +216,7 @@ body {
   }
   
   .card .overlay {
-    padding: 50px 41px;
+    padding: 45px 43px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
