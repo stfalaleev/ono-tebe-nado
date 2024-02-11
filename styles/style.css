@@ -9,7 +9,7 @@ body {
     margin: auto;
     font-size: 20px;
     font-weight: 400;
-    padding: 74px 15px 100px;
+    padding: 80px 20px 100px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -103,7 +103,7 @@ body {
   
   .cover__description-text {
     margin-right: 80px;
-    font-size: 23px;
+    font-size: 22px;
     font-weight: 400;
     line-height: 27px;
     text-align: center;
@@ -141,7 +141,7 @@ body {
   .bet-button {
     border: 1px solid #fff;
     padding: 12px 32px;
-    margin-right: -8px;
+    margin-right: -6px;
     color: inherit;
     font-family: "Raleway", sans-serif;
     font-size: 22px;
@@ -162,14 +162,14 @@ body {
   .lots__heading {
     font-size: 40px;
     font-weight: 700;
-    margin: 0 0 26px 38px;
+    margin: 0 0 26px 42px;
     text-transform: uppercase;
   }
   
   .lots__card-list {
     display: flex;
     flex-wrap: wrap;
-    gap: 30px;
+    gap: 33px;
     list-style: none;
     width: 100%;
     margin-bottom: 30px;
@@ -238,7 +238,7 @@ body {
   .about {
     display: flex;
     gap: 24px;
-    padding: 0 30px 182px 26px;
+    padding: 0 23px 182px 21px;
   }
   
   .about__column:last-child {
