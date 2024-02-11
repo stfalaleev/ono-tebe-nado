@@ -69,7 +69,7 @@ body {
   .address {
     flex: 0 0 auto;
     width: 30.3%;
-    line-height: 156%;
+    line-height: 154%;
     font-style: normal;
     text-underline-position: under;
     font-size: 18px;
@@ -113,7 +113,7 @@ body {
 
   .overlay {
     height: inherit;
-    padding: 171px 50px 50px;
+    padding: 169px 50px 50px;
     width: 100%;
     background-color: rgba(0, 0, 0, 0.6);
   }
