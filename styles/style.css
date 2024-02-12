@@ -9,7 +9,7 @@ body {
     margin: auto;
     font-size: 20px;
     font-weight: 400;
-    padding: 88px 30px 100px;
+    padding: 90px 30px 100px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -63,7 +63,7 @@ body {
   }
   
   .header__address {
-    padding-left: 7.8%;
+    padding-left: 6.8%;
   }
   
   .address {
