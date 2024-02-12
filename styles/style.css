@@ -9,7 +9,7 @@ body {
     margin: auto;
     font-size: 20px;
     font-weight: 400;
-    padding: 88px 45px 100px;
+    padding: 88px 20px 100px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -53,7 +53,7 @@ body {
     flex: 0 0 auto;
     width: 148px;
     height: 105px;
-    margin-left: -80px;
+    margin-right: 80px;
   }
 
 
